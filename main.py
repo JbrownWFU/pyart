@@ -130,4 +130,4 @@ if __name__ == '__main__':
     #open image with defualt image viewer
     #os.system(output_filename)
 
-    #scrub
+    #scrubs
