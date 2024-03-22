@@ -75,7 +75,6 @@ if __name__ == '__main__':
     # ctx.rectangle(50, 20, 120, 80)
     # ctx.fill()
 
-
     """
     #prompt user for # of rectangles to generate, if none defaults to a random int 0 < x < 256
     print("rectangles to generate: ")
@@ -107,6 +106,8 @@ if __name__ == '__main__':
 
     #tkinter
     #==========================================#
+    #window
+
 
     #create window
     window = tk.Tk()
